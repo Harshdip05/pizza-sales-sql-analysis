@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS pizza_hut;
+USE pizza_hut;

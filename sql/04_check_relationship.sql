@@ -1,0 +1,4 @@
+SHOW CREATE TABLE pizzas;
+SHOW CREATE TABLE pizza_types;
+SHOW CREATE TABLE orders;
+SHOW CREATE TABLE order_details;
