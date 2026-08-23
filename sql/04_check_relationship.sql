@@ -1,3 +1,5 @@
+USE pizza_hut;
+
 SHOW CREATE TABLE pizzas;
 SHOW CREATE TABLE pizza_types;
 SHOW CREATE TABLE orders;

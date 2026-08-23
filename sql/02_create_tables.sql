@@ -1,3 +1,5 @@
+USE pizza_hut;
+
 CREATE TABLE pizza_types (
     pizza_type_id VARCHAR(50) NOT NULL,
     name TEXT,

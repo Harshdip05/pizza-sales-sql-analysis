@@ -1,3 +1,5 @@
+USE pizza_hut;
+
 ALTER TABLE pizzas
 ADD CONSTRAINT fk_pizza_type
 FOREIGN KEY (pizza_type_id)

@@ -1,3 +1,5 @@
+USE pizza_hut;
+
 SELECT COUNT(*) FROM pizza_types;
 SELECT COUNT(*) FROM pizzas;
 SELECT COUNT(*) FROM orders;
