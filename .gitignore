@@ -8,6 +8,8 @@
 # Environment variables / secrets
 .env
 .env.*
+.sql_py_venv
+.sql_py_venv/
 !.env.example
 
 # Python files (if used later)
