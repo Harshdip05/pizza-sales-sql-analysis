@@ -1,4 +1,4 @@
-USE pizza_hut
+USE pizza_hut;
 
 -- Which month generates the highest revenue? 
 SELECT
